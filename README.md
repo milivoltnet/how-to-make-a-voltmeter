@@ -1,7 +1,5 @@
 # how-to-make-a-voltmeter
 We are designing a voltmeter
-# how-to-make-a-voltmeter
-We are designing a voltmeter
 Designing and manufacturing measuring instruments is a difficult task. But the features of microcontroller cards make our job easier. The 6 analog inputs on the Arduino microcontroller board are very useful. We will use one of these analog inputs as a voltage input.
 The voltage to be measured may be high. In this application, we have determined a voltage range between 0 and 50-55 volts. Since we can apply more than 5 volts to the analog inputs, we need to divide the voltage to be measured at the input by a large resistor. We did this division with the help of resistors R1 and R2.
 
